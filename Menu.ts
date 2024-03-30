@@ -25,7 +25,7 @@ export function main() {
         console.log("");
         console.log("");
 
-        console.log("Entre com a opcao desejada: ");
+        console.log("Digite a opcao desejada: ");
         opcao = readlinesync.questionInt(" ");
 
         if (opcao == 9) {
