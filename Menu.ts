@@ -51,7 +51,7 @@ export function main() {
 
         if (opcao == 9) {
        
-                "\nBanco do Brazil com Z - O seu Futuro começa aqui!");
+                ("\nBanco do Brazil com Z - O seu Futuro começa aqui!");
             sobre();
             process.exit(0);
         }
